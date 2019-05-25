@@ -1,0 +1,12 @@
+C:\Users\Ryan\Documents\GitHub\Base-Converter\Project 3\bin\Release\Project 3.exe.config
+C:\Users\Ryan\Documents\GitHub\Base-Converter\Project 3\bin\Release\Project 3.exe
+C:\Users\Ryan\Documents\GitHub\Base-Converter\Project 3\bin\Release\Project 3.pdb
+C:\Users\Ryan\Documents\GitHub\Base-Converter\Project 3\obj\Release\Base Converter.csprojAssemblyReference.cache
+C:\Users\Ryan\Documents\GitHub\Base-Converter\Project 3\obj\Release\Project_3.frmAboutbox.resources
+C:\Users\Ryan\Documents\GitHub\Base-Converter\Project 3\obj\Release\Project_3.frmMain.resources
+C:\Users\Ryan\Documents\GitHub\Base-Converter\Project 3\obj\Release\Project_3.frmSpash.resources
+C:\Users\Ryan\Documents\GitHub\Base-Converter\Project 3\obj\Release\Project_3.Properties.Resources.resources
+C:\Users\Ryan\Documents\GitHub\Base-Converter\Project 3\obj\Release\Base Converter.csproj.GenerateResource.cache
+C:\Users\Ryan\Documents\GitHub\Base-Converter\Project 3\obj\Release\Base Converter.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\GitHub\Base-Converter\Project 3\obj\Release\Project 3.exe
+C:\Users\Ryan\Documents\GitHub\Base-Converter\Project 3\obj\Release\Project 3.pdb
